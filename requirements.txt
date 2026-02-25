@@ -1,0 +1,15 @@
+kagglehub
+pandas
+numpy
+scipy 
+scikit-learn 
+matplotlib 
+seaborn 
+tqdm 
+torch
+transformers
+datasets
+evaluate
+peft
+nltk
+category_encoders
